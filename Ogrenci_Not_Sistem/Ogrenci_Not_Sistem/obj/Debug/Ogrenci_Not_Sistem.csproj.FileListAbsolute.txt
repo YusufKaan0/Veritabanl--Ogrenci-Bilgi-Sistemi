@@ -1,0 +1,12 @@
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\bin\Debug\Ogrenci_Not_Sistem.exe.config
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\bin\Debug\Ogrenci_Not_Sistem.exe
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\bin\Debug\Ogrenci_Not_Sistem.pdb
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.csproj.AssemblyReference.cache
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.FrmOgrenciGiris.resources
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.FrmOgrenciDetay.resources
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.FrmOgretmenDetay.resources
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.Properties.Resources.resources
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.csproj.GenerateResource.cache
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.csproj.CoreCompileInputs.cache
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.exe
+C:\Users\kaanc\OneDrive\Masaüstü\Ogrenci_Not_Sistem\Ogrenci_Not_Sistem\obj\Debug\Ogrenci_Not_Sistem.pdb
